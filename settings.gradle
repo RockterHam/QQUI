@@ -1,0 +1,2 @@
+rootProject.name='QQUI'
+include ':app'
